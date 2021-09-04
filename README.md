@@ -1,5 +1,5 @@
 ## Vecta Corp Website
-    A simple webpage designed for **Vecta Corp**.
+    A simple webpage designed for **Vecta Corp** 
 
 #### Contributors
     _Harshaa Vardhini Subramani_
